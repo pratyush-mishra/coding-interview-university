@@ -192,11 +192,11 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
     Fork a branch and follow the commands below
 
-[x]`git checkout -b progress`
+`git checkout -b progress`
 
-[x]`git remote add jwasham https://github.com/jwasham/coding-interview-university`
+`git remote add jwasham https://github.com/jwasham/coding-interview-university`
 
-[x]`git fetch --all`
+`git fetch --all`
 
     Mark all boxes with X after you completed your changes
 
